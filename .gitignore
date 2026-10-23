@@ -1,0 +1,16 @@
+# Python environment and generated files
+.venv/
+__pycache__/
+*.py[cod]
+build/
+dist/
+*.spec
+
+# User data and downloaded media
+links.txt
+musicas/
+baixadas.txt
+
+# FFmpeg binaries are bundled into the released executable
+ffmpeg.exe
+ffprobe.exe
